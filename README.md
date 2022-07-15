@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betül Antep</h1>
 <br/>
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=600&height=100&lines=I'm+an+Jr.Android+Developer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Jr.Android+Developer;I'm+a+Computer+Engineer" alt="Headline" />
 </div>
 
 <p align="center">
