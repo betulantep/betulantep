@@ -5,9 +5,10 @@
 </div>
 
 <p align="center">
-<a href="https://linkedin.com/in/betulantep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/linkedin.png" alt="Linkedin" width="60"/></a>
-<a href="https://play.google.com/store/apps/developer?id=Bet%C3%BCl+Antep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/google-play.png" alt="Google Play Store" width="60"/></a>
-<a href="https://medium.com/@betulantep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/medium-new.png" alt="Medium" width="60"/></a>
-<a href="https://twitter.com/betulantep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/twitter-squared.png" alt="Twitter" width="60"/></a>
+<a href="https://linkedin.com/in/betulantep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/linkedin.png" alt="Linkedin" width="60" align="center"/></a>
+<a href="https://play.google.com/store/apps/developer?id=Bet%C3%BCl+Antep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/google-play.png" alt="Google Play Store" width="52" align="center"/></a>
+<a href="https://medium.com/@betulantep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/medium-new.png" alt="Medium" width="60" align="center"/></a>
+<a href="mailto:betulantep0@gmail.com"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/gmail.png" alt="Gmail" width="52" align="center"/></a>
+<a href="https://twitter.com/betulantep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/twitter-squared.png" alt="Twitter" width="60" align="center"/></a>
 </p>
 
