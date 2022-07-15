@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Betül Antep</h1>
+<br/>
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=600&height=100&lines=I'm+an+Jr.Android+Developer" alt="Headline" />
+</div>
 
-<!--
-**betulantep/betulantep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://linkedin.com/in/betulantep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/linkedin.png" alt="Linkedin" width="60"/></a>
+<a href="https://play.google.com/store/apps/developer?id=Bet%C3%BCl+Antep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/google-play.png" alt="Google Play Store" width="60"/></a>
+<a href="https://medium.com/@betulantep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/medium-new.png" alt="Medium" width="60"/></a>
+<a href="https://twitter.com/betulantep" target="blank"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/twitter-squared.png" alt="Twitter" width="60"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
