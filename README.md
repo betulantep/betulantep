@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Jr.Android+Developer;I'm+a+Computer+Engineer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=600&height=100&lines=I'm+An+Android+Developer;I'm+A+Computer+Engineer" alt="Headline" />
 </div>
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExZTJjMmM2NTI3NmNkZGYwYWRkYzlmZmYxZTZlY2FkYWRiZTE2YiZjdD1n/RCtKcMeeIlIFskmH7C/giphy.gif" width='300'alt="Growth"/>
