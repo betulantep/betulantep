@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExZTJjMmM2NTI3NmNkZGYwYWRkYzlmZmYxZTZlY2FkYWRiZTE2YiZjdD1n/RCtKcMeeIlIFskmH7C/giphy.gif" width='350'/><br/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExZTJjMmM2NTI3NmNkZGYwYWRkYzlmZmYxZTZlY2FkYWRiZTE2YiZjdD1n/RCtKcMeeIlIFskmH7C/giphy.gif" width='330'/><br/>
 
 
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=600&height=60&lines=I'm+An+Android+Developer;I'm+A+Computer+Engineer" alt="Headline" />
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&color=30DC72&center=true&vCenter=true&width=600&height=60&lines=I'm+An+Android+Developer;I'm+A+Computer+Engineer" alt="Headline" />
 <br/><br/>
 <h3 align="left">
   <h3 align="center">
