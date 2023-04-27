@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Betül</h1>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&color=30DC72&center=true&vCenter=true&width=600&height=100&lines=I'm+An+Android+Developer;I'm+A+Computer+Engineer" alt="Headline" />
-</div>
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExZTJjMmM2NTI3NmNkZGYwYWRkYzlmZmYxZTZlY2FkYWRiZTE2YiZjdD1n/RCtKcMeeIlIFskmH7C/giphy.gif" width='300'alt="Growth"/>
-</p>
-<br/>
-<p align="center">
-<a href="https://linkedin.com/in/betulantep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/linkedin.png" alt="LinkedIn" width="60" align="center"/></a>&nbsp&nbsp&nbsp
-<a href="https://play.google.com/store/apps/developer?id=Bet%C3%BCl+Antep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/google-play.png" alt="Google Play Store" width="52" align="center"/></a>&nbsp&nbsp&nbsp
-<a href="https://medium.com/@betulantep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/medium-new.png" alt="Medium" width="60" align="center"/></a>&nbsp&nbsp&nbsp
-<a href="mailto:betulantep0@gmail.com"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/gmail.png" alt="Gmail" width="52" align="center"/></a>&nbsp&nbsp&nbsp
-<a href="https://twitter.com/betulantep"><img src="https://img.icons8.com/nolan/344/2AF598/009EFD/twitter-squared.png" alt="Twitter" width="60" align="center"/></a>&nbsp&nbsp&nbsp
-</p>
+
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTExZTJjMmM2NTI3NmNkZGYwYWRkYzlmZmYxZTZlY2FkYWRiZTE2YiZjdD1n/RCtKcMeeIlIFskmH7C/giphy.gif" width='380'/><br/>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&color=30DC72&center=true&vCenter=true&width=600&height=60&lines=I'm+An+Android+Developer;I'm+A+Computer+Engineer" alt="Headline" />
+  </h3>
+
+<h3 align="center">
+<a href="https://linkedin.com/in/betulantep"><img src="https://img.icons8.com/fluency/96/null/linkedin.png" alt="LinkedIn" width="60" align="center"/></a>&nbsp&nbsp
+<a href="https://play.google.com/store/apps/developer?id=Bet%C3%BCl+Antep"><img src="https://img.icons8.com/fluency/96/null/google-play-store-new.png" alt="Google Play Store" width="52" align="center"/></a>&nbsp&nbsp
+<a href="https://medium.com/@betulantep"><img src="https://img.icons8.com/glyph-neue/64/null/medium-logo.png" alt="Medium" width="64" align="center"/></a>&nbsp&nbsp&nbsp
+<a href="mailto:betulantep0@gmail.com"><img src="https://img.icons8.com/fluency/96/null/gmail-new.png" alt="Gmail" width="56" align="center"/></a>&nbsp&nbsp&nbsp
+<a href="https://twitter.com/betulantep"><img src="https://img.icons8.com/fluency/96/null/twitter.png" alt="Twitter" width="56" align="center"/></a>&nbsp&nbsp&nbsp
+</h3>
+
+
